@@ -9,6 +9,9 @@
     <br />
 </div>
 
+<br />
+<br />
+
 <ol>
   <li>
     <a href="#but-du-projet">But du projet</a>
@@ -23,10 +26,16 @@
   </li>
 </ol>
 
+<br />
+<br />
 
 ## But du projet
       
       
+<br />
+<br />
+<br />
+<br />
       
       
 ## Réalisation
@@ -37,11 +46,15 @@ Ecrit en C avec la librairie ncurses.
 ```c
 #include <ncurses.h>
 ```
+<br />
+<br />
 
 ### Cahier des charges
 <div align="center">
   <img src="images/1/fig1.png">
 </div>
+<br />
+<br />
 
 ### Prototype
 <div align="center">
