@@ -42,8 +42,12 @@ Ecrit en C avec la librairie ncurses.
 ```
 
 ### Cahier des charges
+<div align="center">
+  <img src="images/1/fig1.png">
+</div>
 
 ### Prototype
-
-
-[C]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg
+<div align="center">
+  <img src="images/1/fig3-interface.png">
+  <img src="images/1/fin.PNG" width="250" height="250">
+</div>
