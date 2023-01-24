@@ -16,11 +16,11 @@
       <a href="#but-du-projet">But du projet</a>
     </li>
     <li>
-      <a href="réalisation">Réalisation</a>
+      <a href="#réalisation">Réalisation</a>
       <ul>
-        <li><a href="langage">Langage</a></li>
-        <li><a href="cahier-des-charges">Cahier des charges</a></li>
-        <li><a href="prototype">Prototype</a></li>
+        <li><a href="#langage">Langage</a></li>
+        <li><a href="#cahier-des-charges">Cahier des charges</a></li>
+        <li><a href="#prototype">Prototype</a></li>
       </ul>
     </li>
   </ol>
