@@ -1241,4 +1241,4 @@ void vitesseLumiere(int x, char *Player[3], int boss[8]){
   // Fin
   sleep(2);
   win = true;
-}
+} 
