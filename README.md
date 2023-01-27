@@ -47,11 +47,24 @@
 <br /><br />
 
 ### Cahier des charges
+<p>
+  Le programme dispose d’animations servant de transitions, comme l’écran de chargement qui amène au menu principal ou encore l’arrivé du boss final. Le menu principal permet de relier les quatre fonctions principales : le lancement du jeu, les règles, les paramètres ainsi que l’arrêt du jeu.
+  <br /><br />
+  L’utilisateur peut déplacer son vaisseau sur l’axe X, vaisseau choisissable via les paramètres, avec l’utilisation des touches « D ou d » et « Q ou q » afin de déplacer le vaisseau sur l’axe X. « Q » étant pour aller à gauche et « D » pour aller à droite, l’utilisation de la barre espace afin de tirer des lasers avec notre propre vaisseau. L’appuis de la touche « P ou p » permet l’interruption du programme à tout moment ainsi que sa reprise.
+  <br /><br />
+  Il y a différents types d’ennemis, chaque ennemi ont des fonctionnalités différentes tel que : tirer des lasers, se déplacer sur l’axe X et You encore suivre parfaitement l’utilisateur.
+  <br /><br />
+  Ci-dessous, les différents vaisseaux utilisables par l’utilisateur ainsi que les vaisseaux des ennemis :
 <div align="center">
   <img src="images/1/fig1.png">
 </div>
-<br />
-<br />
+  <br /><br />
+  La difficulté du jeu évolue avec le score de l’utilisateur, en effet les parties sont divisées en cinq vagues plus difficiles les unes que les autres. De plus, le vaisseau de l’utilisateur est très fragile, une seule collision avec n’importe quel laser ou n’importe quel ennemi entraînera la fin de la partie et donc la défaite. La seule solution de victoire est de réussir à vaincre le boss de la dernière vague. 
+  <br /><br />
+  Un score est comptabilisé durant la partie, incrémenté à chaque vaisseau détruit, il est affiché en permanence et affiché à la fin du jeu avec le meilleur score toute parties confondu.
+</p>
+
+<br /><br />
 
 ### Prototype
 <div align="center">
