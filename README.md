@@ -55,9 +55,9 @@
   Il y a différents types d’ennemis, chaque ennemi ont des fonctionnalités différentes tel que : tirer des lasers, se déplacer sur l’axe X et You encore suivre parfaitement l’utilisateur.
   <br /><br />
   Ci-dessous, les différents vaisseaux utilisables par l’utilisateur ainsi que les vaisseaux des ennemis :
-<div align="center">
-  <img src="images/1/fig1.png">
-</div>
+  <div align="center">
+    <img src="images/1/fig1.png">
+  </div>
   <br /><br />
   La difficulté du jeu évolue avec le score de l’utilisateur, en effet les parties sont divisées en cinq vagues plus difficiles les unes que les autres. De plus, le vaisseau de l’utilisateur est très fragile, une seule collision avec n’importe quel laser ou n’importe quel ennemi entraînera la fin de la partie et donc la défaite. La seule solution de victoire est de réussir à vaincre le boss de la dernière vague. 
   <br /><br />
@@ -67,7 +67,13 @@
 <br /><br />
 
 ### Prototype
-<div align="center">
-  <img src="images/1/fig3-interface.png">
-  <img src="images/1/fin.PNG" width="250" height="250">
-</div>
+<p>
+  Dans cette section, les différents prototypes que nous avons développés pour notre jeu vidéo Space Invaders. Les différentes interfaces utilisateur que nous avons créées pour permettre aux joueurs de naviguer dans le jeu, ainsi que l'apparence finale du jeu lorsque la partie est terminée. 
+  <br /><br />
+  Ces images vous donneront une idée de l'expérience utilisateur que nous avons voulu créer et de l'évolution de notre projet au cours de la réalisation. Tout d'abord, la visualasation du lancement du jeu ainsi que la navigation dans les menus ainsi que dans le choix du vaisseeau. Puis ensuite l'apparance finale du jeu.
+  <div align="center">
+    <img src="images/1/fig3-interface.png">
+    <img src="images/1/fin.PNG">
+    <img src="images/1/gameplay.png">
+  </div>
+</p>
