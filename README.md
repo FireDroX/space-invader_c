@@ -73,7 +73,7 @@
   Ces images vous donneront une idée de l'expérience utilisateur que nous avons voulu créer et de l'évolution de notre projet au cours de la réalisation. Tout d'abord, la visualasation du lancement du jeu ainsi que la navigation dans les menus ainsi que dans le choix du vaisseeau. Puis ensuite l'apparance finale du jeu.
   <div align="center">
     <img src="images/1/fig3-interface.png">
-    <img src="images/1/fin.PNG" height="300">
     <img src="images/1/gameplay.png" height="300">
+    <img src="images/1/fin.PNG" height="300">
   </div>
 </p>
